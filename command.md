@@ -15,5 +15,5 @@
 * Execute the Python code in command
 ### `rm`
 * Remove files
-* `rm -rf`
+* `rm -rf`   `rm -r`
     *  Delete non-empty directories forcefully
